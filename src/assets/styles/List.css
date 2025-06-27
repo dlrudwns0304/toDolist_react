@@ -1,0 +1,13 @@
+li {
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+    margin:10px;
+    
+    display: float;
+}
+li input{}
+li span{
+    margin-left:10px;
+    
+}
+li button{float:right}
